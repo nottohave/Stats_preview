@@ -1,6 +1,4 @@
-# Frontend Mentor - Stats preview card component solution
-
-This is a solution to the [Stats preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/stats-preview-card-component-8JqbgoU62).
+# Frontend Mentor - Stats preview card component [solution](#links)
 
 ## Table of contents
 
@@ -30,8 +28,9 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+This is a solution to the [Stats preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/stats-preview-card-component-8JqbgoU62).
+
+- Live Site URL: [Stats Preivew Component](https://nottohave.github.io/Stats_preview/)
 
 ## My process
 
@@ -75,5 +74,4 @@ I will continue learning the design pattern and learn to use grid when necessary
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Twitter - [@Ubering_Cacti](https://twitter.com/Ubering_Cacti)
