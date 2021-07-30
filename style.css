@@ -24,6 +24,8 @@ html {
   --headerStatsColor: hsl(0, 0%, 100%);
   --paragraphColor: hsla(0, 0%, 100%, 0.75);
   --statHeadingColor: hsla(0, 0%, 100%, 0.6);
+  height: 100%;
+  overflow: hidden;
 }
 
 body {
@@ -32,7 +34,7 @@ body {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  padding: 500px 236px;
+  padding: 100px 200px;
 }
 
 /* Main card */
