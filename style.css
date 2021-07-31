@@ -24,8 +24,6 @@ html {
   --headerStatsColor: hsl(0, 0%, 100%);
   --paragraphColor: hsla(0, 0%, 100%, 0.75);
   --statHeadingColor: hsla(0, 0%, 100%, 0.6);
-  height: 100%;
-  overflow: hidden;
 }
 
 body {
@@ -143,11 +141,9 @@ body {
 
   .left {
     width: 326px;
-    height: 62vh;
-    justify-content: center;
-    align-items: center;
+    height: auto;
     margin-top: 240px;
-    padding: 30px 30px 0px 30px;
+    padding: 30px 30px 10px 30px;
     text-align: center;
   }
 
