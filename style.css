@@ -24,6 +24,7 @@ html {
   --headerStatsColor: hsl(0, 0%, 100%);
   --paragraphColor: hsla(0, 0%, 100%, 0.75);
   --statHeadingColor: hsla(0, 0%, 100%, 0.6);
+  overflow: hidden;
 }
 
 body {
@@ -119,6 +120,9 @@ body {
 }
 
 @media screen and (max-width: 842px) {
+  html {
+    overflow: scroll;
+  }
   body {
     padding: 87px 24px;
     flex-direction: column;
